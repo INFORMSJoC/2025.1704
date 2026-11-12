@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Louis Bonnet
+# SPDX-License-Identifier: MIT
+
 import itertools
 import ast
 from copy import deepcopy

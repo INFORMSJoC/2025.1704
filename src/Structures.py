@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Louis Bonnet
+# SPDX-License-Identifier: MIT
+
 from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import Tuple, Optional

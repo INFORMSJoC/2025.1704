@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Louis Bonnet
+# SPDX-License-Identifier: MIT
+
 from Config import Config
 from NetworkGenerator import NetworkGenerator
 from InstanceGenerator import InstanceGenerator
