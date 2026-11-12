@@ -1,3 +1,6 @@
+<!-- Copyright (c) 2026 Louis Bonnet -->
+<!-- SPDX-License-Identifier: MIT -->
+
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # An Open-Source Generator for Realistic Instances of the Scheduled Service Network Design Problem

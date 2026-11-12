@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Louis Bonnet
+# SPDX-License-Identifier: MIT
+
 +   General configuration parameters.
 defaultInstancePath=data/Instances
 defaultNetworkPath=data/Networks
