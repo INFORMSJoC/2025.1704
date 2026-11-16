@@ -1,0 +1,10 @@
+# Copyright (c) 2026 Louis Bonnet
+# SPDX-License-Identifier: MIT
+
+# Requirements for running the instance generator and reproducing results
+# Tested with Python 3.10 on Linux
+
+numpy>=2.2
+scipy>=1.15
+networkx>=3.4
+matplotlib>=3.10

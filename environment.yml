@@ -1,0 +1,13 @@
+# Copyright (c) 2026 Louis Bonnet
+# SPDX-License-Identifier: MIT
+
+name: ssndp-generator
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=2.2
+  - scipy>=1.15
+  - networkx>=3.4
+  - matplotlib>=3.10
+  

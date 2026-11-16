@@ -1,0 +1,58 @@
+# Copyright (c) 2026 Louis Bonnet
+# SPDX-License-Identifier: MIT
+
++   General configuration parameters.
+defaultInstancePath=data/Instances
+defaultNetworkPath=data/Networks
+folder=GitHubExample
+networkNb=1
+instanceNb=1
+networkSeed=0
+demandSeed=0
+
++ General network configuration parameters.
+networkEmulationPath=
+networkEmulationTimeLimit=
+randomGeneration=False
+
++   Node generation parameters.
+targetNodeNb=30
+hnRatio=0.2
+decayRate=30
+
++   Arc generation parameters.
+targetArcNb=
+targetDensity=0.2
+targetReciprocity=0.8
+bboxWidth=700
+bboxHeight=900
+capacity=100
+priceRatio=1.7
+ufCostRatio=0.05
+mode=
+
++ Transportation mode presets.
+ltlRangeDensity=(0.06,0.74)
+ltlRangeReciprocity=(0.71,1.0)
+linerRangeDensity=(0.02,0.82)
+linerRangeReciprocity=(0.58,1.0)
+railRangeDensity=(0.02,0.06)
+railRangeReciprocity=(1.0,1.0)
+expressRangeDensity=(0.03,0.06)
+expressRangeReciprocity=(0.19,0.81)
+
++   Demand generation parameters.
+doStatic=False
+commodityNb=100
+quantityToCapaMean=0.1
+quantityToCapaDev=0.5
+sameRegionRatio=
+disparityRatio=
+horizon=6
+discretization=48
+speed=100
+flexibilityMean=0.5
+flexibilityDev=0.17
+criticalTime=
+distributionPattern=
+preProcessingSSNDP=False
